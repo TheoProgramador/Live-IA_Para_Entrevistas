@@ -3,6 +3,8 @@ import torch
 import numpy as np
 from datetime import timedelta
 
+#os arquivos auxiliares estao em: https://drive.google.com/file/d/1tr2ngS_4HFiZ4CRwpFtsxRqsb9GcUcFA/view?usp=drive_link
+
 # Limpar VRAM (se estiver usando GPU)
 torch.cuda.empty_cache()
 
